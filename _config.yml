@@ -94,8 +94,10 @@ content:
         title: Ivy Tech
         caption: 2016
         sub_title: BSc Computer Science
-        quote: >
-          Founded in 1963, Ivy Tech Community College is Indiana’s largest public postsecondary institution and the nation’s largest singly accredited statewide community college system. Known for its strong focus on workforce development, affordability, and flexible learning paths, Ivy Tech plays a vital role in connecting students to in-demand careers and four-year university opportunities across the state.
+        quote: |#>
+          Founded in 1963, Ivy Tech Community College is Indiana’s largest public postsecondary institution and the nation’s largest singly accredited statewide community college system. 
+          Known for its strong focus on workforce development, affordability, and flexible learning paths, Ivy Tech plays a vital role in connecting students to in-demand careers and four-year university opportunities across the state.
+        
         description: | # this will include new lines to allow paragraphs
           During my time at Ivy Tech, I focused on network administration, where I developed a strong foundation in IT systems, troubleshooting, and infrastructure management. These skills became the springboard for my transition into controls engineering, where I now apply that technical background to industrial automation and system integration.
 
