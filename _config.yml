@@ -211,7 +211,7 @@ content:
           Building a DIY turtlebot
         #caption: 2016
         #sub_title: Associates of Applied Science Computer Technology
-        quote: 
+        quote: ""
         #  Alexa, bring me my drill.
         # - Building a dual stick controlled Omniwheel robot 
         # - Home Automaton
@@ -222,7 +222,7 @@ content:
           Omniwheel robot
         #caption: 2016
         #sub_title: Associates of Applied Science Computer Technology
-        quote: 
+        quote: ""
         #   Cooler than you might think.
         description: |
           Programmed and made a remote controlled OmniWheel robot. 
@@ -231,7 +231,7 @@ content:
           Home Automaton
         #caption: 2016
         #sub_title: Associates of Applied Science Computer Technology
-        quote: 
+        quote: ""
         #   So Humble.
         # - Building a dual stick controlled Omniwheel robot 
         # - Home Automaton
