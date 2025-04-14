@@ -155,7 +155,7 @@ content:
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of a 36 valve autoclave.
-          Additionally programmed an access report frontend and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
+          Additionally, programmed an Access report frontend and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
       - layout: top-middle
         title: Virtual Machine Deployment for 300+ Applications
         # link: github.com/sproogen
@@ -170,7 +170,7 @@ content:
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Headed a project Designing and implementing a scalable VM environment for our engineering machines, namely designing VM's for Rockwell, Seimens, and Misc. to transition into windows 11
+          Headed a project designing and implementing deployable VM environments for our engineering laptops. Namely creating a VM for the Rockwell suite, the Seimens suite, and one for over 200 other applications to transition into Windows 11
       - layout: top-middle
         title: Mixing System Commissioning
         # link: github.com/sproogen
