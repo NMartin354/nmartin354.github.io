@@ -207,7 +207,8 @@ content:
     layout: list
     content:  # this will include new lines to allow paragraphs
       - layout: left
-        title: Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+        title: > 
+          Alongside my interests in networks and software engineering some of my other interests and hobbies are:
         caption: 2016
         sub_title: Associates of Applied Science Computer Technology
         quote: >
