@@ -206,6 +206,8 @@ content:
     content:  # this will include new lines to allow paragraphs
       - layout: top-middle
         title: Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+        caption: 2016
+        sub_title: Associates of Applied Science Computer Technology
         description: Building a DIY turtlebot
         quote: Built  a personal autonomous ROS assistant tablebot  out of a neato botvac, a raspberry pi, a kinect, and some sensors.
         # - Building a dual stick controlled Omniwheel robot 
