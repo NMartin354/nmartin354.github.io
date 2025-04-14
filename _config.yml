@@ -200,7 +200,7 @@ content:
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Re-designed and merged a couple SQL databases to allow editing and duplication in the primary key using a complex Transact SQL script
+          Redesigned and merged 2 SQL databases to allow editing of the primary key using a complex Transact SQL script
 
 
   - title: Personal Projects
@@ -216,7 +216,7 @@ content:
         # - Building a dual stick controlled Omniwheel robot 
         # - Home Automaton
         description: |
-          Building a DIY turtlebot
+          Built  a personal autonomous ROS assistant tablebot  out of a neato botvac, a raspberry pi, a kinect, and some sensors.
       - layout: left
         title: > 
           Building a dual stick controlled Omniwheel robot
