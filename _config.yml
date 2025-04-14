@@ -170,7 +170,7 @@ content:
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Headed a project designing and implementing deployable VM environments for our engineering laptops. Namely creating a VM for the Rockwell suite, the Seimens suite, and one for over 200 other applications to transition into Windows 11
+          Headed a project designing and implementing deployable VM environments for our engineering laptops. Namely creating a VM for the Rockwell suite, a VM for the Seimens suite, and a VM for over 200 other applications to transition into Windows 11
       - layout: top-middle
         title: Mixing System Commissioning
         # link: github.com/sproogen
