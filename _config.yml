@@ -208,10 +208,12 @@ content:
         title: Alongside my interests in networks and software engineering some of my other interests and hobbies are:
         caption: 2016
         sub_title: Associates of Applied Science Computer Technology
-        description: Building a DIY turtlebot
-        quote: Built  a personal autonomous ROS assistant tablebot  out of a neato botvac, a raspberry pi, a kinect, and some sensors.
+        quote: >
+          Built  a personal autonomous ROS assistant tablebot  out of a neato botvac, a raspberry pi, a kinect, and some sensors.
         # - Building a dual stick controlled Omniwheel robot 
         # - Home Automaton
+        description: |
+          Building a DIY turtlebot
 
    #  Look at this cool image  
    #  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
