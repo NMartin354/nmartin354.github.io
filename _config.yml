@@ -54,71 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Information</mark> and <mark>Technology</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: HMI Design for a Wood Treating Plant
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: #>
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of 36 valve autoclave.
-          Additionally programmed an access report frontent and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
-      - layout: top-middle
-        title: Virtual Machine Deployment for 300+ Applications
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: #>
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Headed a project Designing and implementing a scalable VM environment for our engineering machines, namely designing VM's for Rockwell, Seimens, and Misc. to transition into windows 11
-      - layout: top-middle
-        title: Mixing System Commissioning
-        # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: #>
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Programmed a full mixing system using gravity fill, pumps, and valves to precisely measure and fill the volume and contents of 4 tanks
-      - layout: top-middle
-        title: SQL Overhaul
-        # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: #>
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Re-designed and merged a couple SQL databases to allow editing and duplication in the primary key using a complex Transact SQL script
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -202,8 +137,73 @@ content:
           Interesting fact, I was runner up for *School President* in 2014.
 
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: HMI Design for a Wood Treating Plant
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of 36 valve autoclave.
+          Additionally programmed an access report frontent and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
+      - layout: top-middle
+        title: Virtual Machine Deployment for 300+ Applications
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Headed a project Designing and implementing a scalable VM environment for our engineering machines, namely designing VM's for Rockwell, Seimens, and Misc. to transition into windows 11
+      - layout: top-middle
+        title: Mixing System Commissioning
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Programmed a full mixing system using gravity fill, pumps, and valves to precisely measure and fill the volume and contents of 4 tanks
+      - layout: top-middle
+        title: SQL Overhaul
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Re-designed and merged a couple SQL databases to allow editing and duplication in the primary key using a complex Transact SQL script
 
-  - title: A Little More About Me
+
+  - title: Personal Projects
     layout: list
     content:  # this will include new lines to allow paragraphs
       - layout: left
