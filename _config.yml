@@ -86,6 +86,36 @@ content:
           Your average every day expert of wood treating
         description: | # this will include new lines to allow paragraphs
             Oversaw end-to-end development and integration of complex automation solutions—ranging from PLC programming and HMI design to SCADA configuration and instrumentation setup—ensuring seamless functionality, adherence to compliance standards, and enhanced efficiency within diverse industrial client locations.
+            - Troubleshoot and resolve control system issues promptly
+            - Manage and correct databases to ensure data integrity
+            - Supervise process flow changes, adjusting control logic and configurations
+            - Commission new systems, performing hardware checks and loading control logic
+            - Monitor system performance and recommend process improvements
+            - Create and update documentation for procedures and training materials
+            - Provide on-call expert level support to address emergency service requests
+
+      - layout: left
+        title: Earle C Clements Job Corps, Morganfield, KY
+        link: earlecclements.jobcorps.gov
+        # link_text: boringcompany.com
+        sub_title: Network Administrator
+        caption: Octover 2016 - June 2023
+        quote: >
+          Level 2 IT guy
+        description: | # this will include new lines to allow paragraphs
+            Responsible for maintaining, designing, administering and supporting all center networks, including managing 12+ servers, routers, switches, wireless APs, surveillance cameras, and software according to government and company standards.
+            - Troubleshoot and resolve network issues
+            - Oversaw network security for internal systems servicing critical hardware and 1000 users
+            - Audit assigned areas for contractual compliance and service effectiveness, 
+            - Recommend improvement opportunities 
+            - Lead weekly training for new students on orientation
+            - Perform hardware maintenance and repair on workstations and servers
+            - Establish and maintain disaster recovery process for network
+            - Report on project status to management, and incorporate management feedback 
+            - Maintain internal website
+            - Provide professional customer service through onsite L3 technical support
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,7 +123,7 @@ content:
       - layout: left
         title: Ivy Tech
         caption: 2016
-        sub_title: BSc Computer Science
+        sub_title: Associates of Applied Science Computer Technology
         quote: |#>
           Founded in 1963, Ivy Tech Community College is Indiana’s largest public postsecondary institution and the nation’s largest singly accredited statewide community college system. 
           Known for its strong focus on workforce development, affordability, and flexible learning paths, Ivy Tech plays a vital role in connecting students to in-demand careers and four-year university opportunities across the state.
