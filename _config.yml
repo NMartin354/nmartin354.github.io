@@ -58,36 +58,66 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: HMI Design for a Wood Treating Plant 
+        title: HMI Design for a Wood Treating Plant
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation
+          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of 36 valve autoclave.
+          Additionally programmed an access report frontent and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
       - layout: top-middle
         title: Virtual Machine Deployment for 300+ Applications
         # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Headed a project Designing and implementing a scalable VM environment for our engineering machines, namely designing VM's for Rockwell, Seimens, and Misc. to transition into windows 11
+      - layout: top-middle
+        title: Mixing System Commissioning
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented a scalable VM environment, enhancing system efficiency and uptime
-
+          Programmed a full mixing system using gravity fill, pumps, and valves to precisely measure and fill the volume and contents of 4 tanks
+      - layout: top-middle
+        title: SQL Overhaul
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Re-designed and merged a couple SQL databases to allow editing and duplication in the primary key using a complex Transact SQL script
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,11 +128,11 @@ content:
           Controls, 
           Evansville, IN
         link: embryenterprises.com
-        # link_text: boringcompany.com
+        link_text: Embry Enterprises
         sub_title: Automation Specialist
         caption: June 2023 - January 2025
         quote: >
-          Your average every day expert of wood treating
+          I'm just your friendly neighborhood expert of wood treating
         description: | # this will include new lines to allow paragraphs
             Oversaw end-to-end development and integration of complex automation solutions—ranging from PLC programming and HMI design to SCADA configuration and instrumentation setup—ensuring seamless functionality, adherence to compliance standards, and enhanced efficiency within diverse industrial client locations.
             - Troubleshoot and resolve control system issues promptly
@@ -118,7 +148,7 @@ content:
           Earle C Clements Job Corps, 
           Morganfield, KY
         link: earlecclements.jobcorps.gov
-        # link_text: boringcompany.com
+        link_text: ECCJCA
         sub_title: Network Administrator
         caption: Octover 2016 - June 2023
         quote: >
@@ -136,6 +166,30 @@ content:
             - Maintain internal website
             - Provide professional customer service through onsite L3 technical support
 
+
+      - layout: left
+        title: |
+          Wal Mart, 
+          Newburgh, IN
+        # link: 
+        # link_text: boringcompany.com
+        sub_title: Electronics Associate
+        caption: July 2009 - Octover 2016
+        quote: >
+          Cartpusher turned sales guy
+        description: | # this will include new lines to allow paragraphs
+            I sold electronics based on my recommendations of what people need, from what they tell me. I was very knowledgeable on what is being sold.
+            # Responsible for maintaining, designing, administering and supporting all center networks, including managing 12+ servers, routers, switches, wireless APs, surveillance cameras, and software according to government and company standards.
+            # - Troubleshoot and resolve network issues
+            # - Oversaw network security for internal systems servicing critical hardware and 1000 users
+            # - Audit assigned areas for contractual compliance and service effectiveness, 
+            # - Recommend improvement opportunities 
+            # - Lead weekly training for new students on orientation
+            # - Perform hardware maintenance and repair on workstations and servers
+            # - Establish and maintain disaster recovery process for network
+            # - Report on project status to management, and incorporate management feedback 
+            # - Maintain internal website
+            # - Provide professional customer service through onsite L3 technical support
 
 
   - title: Education # Title for the section
