@@ -72,12 +72,31 @@ content:
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation
+      - layout: top-middle
+        title: Virtual Machine Deployment for 300+ Applications
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Designed and implemented a scalable VM environment, enhancing system efficiency and uptime
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Embry Automation and Controls, Evansville, IN
+        title: |
+          Embry Automation and 
+          Controls, 
+          Evansville, IN
         link: embryenterprises.com
         # link_text: boringcompany.com
         sub_title: Automation Specialist
@@ -95,7 +114,9 @@ content:
             - Provide on-call expert level support to address emergency service requests
 
       - layout: left
-        title: Earle C Clements Job Corps, Morganfield, KY
+        title: |
+          Earle C Clements Job Corps, 
+          Morganfield, KY
         link: earlecclements.jobcorps.gov
         # link_text: boringcompany.com
         sub_title: Network Administrator
