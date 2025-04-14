@@ -219,13 +219,13 @@ content:
           Built  a personal autonomous ROS assistant tablebot  out of a neato botvac, a raspberry pi, a kinect, and some sensors.
       - layout: left
         title: > 
-          Building a dual stick controlled Omniwheel robot
+          Omniwheel robot
         #caption: 2016
         #sub_title: Associates of Applied Science Computer Technology
         quote: >
           Cooler than you might think.
         description: |
-          Programmed and made a remote controlled omniwheel robot.
+          Programmed and made a remote controlled OmniWheel robot. 
       - layout: left
         title: > 
           Home Automaton
