@@ -245,7 +245,8 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: [Letter Of Reference](/images/Reference.pdf)
+references_title: >
+  [Letter Of Reference](/images/Reference.pdf)
 
 # Build settings
 remote_theme: sproogen/resume-theme
