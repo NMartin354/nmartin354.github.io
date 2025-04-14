@@ -172,7 +172,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Headed a project designing and implementing deployable VM environments for our engineering laptops. Namely creating a VM for the Rockwell suite, a VM for the Seimens suite, and a VM for over 200 other applications to transition into Windows 11
       - layout: top-middle
-        title: Mixing System Commissioning
+        title: Comissioned a simple Mixing System
         # link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
@@ -185,7 +185,7 @@ content:
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Programmed a full mixing system using gravity fill, pumps, and valves to precisely measure and fill the volume and contents of 4 tanks
+          Programmed a mixing system from scratch which controlled gravity fill, pumps, and valves to proportionately measure and fill the contents of 4 tanks
       - layout: top-middle
         title: SQL Overhaul
         # link: github.com/sproogen
