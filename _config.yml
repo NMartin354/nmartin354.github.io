@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-# github_username:  sproogen
+github_username:  NMartin354
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -67,7 +67,7 @@ content:
         sub_title: Automation Specialist
         caption: June 2023 - January 2025
         quote: >
-          I'm just your friendly neighborhood expert of wood treating
+          I'm just your friendly neighborhood wood treating expert
         description: | # this will include new lines to allow paragraphs
             Oversaw end-to-end development and integration of complex automation solutions—ranging from PLC programming and HMI design to SCADA configuration and instrumentation setup—ensuring seamless functionality, adherence to compliance standards, and enhanced efficiency within diverse industrial client locations.
             - Troubleshoot and resolve control system issues promptly
@@ -85,7 +85,7 @@ content:
         link: earlecclements.jobcorps.gov
         link_text: ECCJCA
         sub_title: Network Administrator
-        caption: Octover 2016 - June 2023
+        caption: October 2016 - June 2023
         quote: >
           Level 2 IT guy
         description: | # this will include new lines to allow paragraphs
@@ -104,7 +104,7 @@ content:
 
       - layout: left
         title: |
-          Wal Mart, 
+          Walmart, 
           Newburgh, IN
         # link: 
         # link_text: boringcompany.com
@@ -115,7 +115,7 @@ content:
         quote: >
           Cartpusher turned sales guy
         description: | # this will include new lines to allow paragraphs
-          I sold electronics based on my recommendations of what people need, from what they tell me. 
+          Sold and reccomended electronics based on customer requests. 
 
 
   - title: Education # Title for the section
@@ -124,17 +124,17 @@ content:
       - layout: left
         title: Ivy Tech
         caption: 2016
-        sub_title: Associates of Applied Science Computer Technology
+        sub_title: Associates of Applied Science in Computer Technology
         quote: | #>
           Founded in 1963, Ivy Tech Community College is Indiana’s largest public postsecondary institution and the nation’s largest singly accredited statewide community college system. 
           Known for its strong focus on workforce development, affordability, and flexible learning paths, Ivy Tech plays a vital role in connecting students to in-demand careers and four-year university opportunities across the state.
         
         description: | # this will include new lines to allow paragraphs
-          During my time at Ivy Tech, I focused on network administration, where I developed a strong foundation in IT systems, troubleshooting, and infrastructure management. These skills became the springboard for my transition into controls engineering, where I now apply that technical background to industrial automation and system integration.
+          During my time at Ivy Tech, I focused on network administration, developing a strong foundation in IT systems, troubleshooting, and infrastructure management. These skills became the springboard for my transition into controls engineering, where I now apply that technical background to industrial automation and systems integration.
 
           While I didn’t study controls directly in college, my experience managing networks and solving real-world problems prepared me to adapt quickly and learn on the job. That adaptability continues to be one of my biggest strengths in the field.
 
-          Interesting fact, I was runner up for *School President* in 2014.
+          *Interesting fact: I was runner up for School President in 2014.*
 
 
   - title: Projects # Title for the section
@@ -154,8 +154,8 @@ content:
         quote: #>
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of 36 valve autoclave.
-          Additionally programmed an access report frontent and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
+          Developed operator-friendly interfaces and assisted in creating logic for an advanced wood treating operation, creating a detailed diagram of a 36 valve autoclave.
+          Additionally programmed an access report frontend and a comprehensive SQL server database measuring process step time, and specific sensor min and max metrics.
       - layout: top-middle
         title: Virtual Machine Deployment for 300+ Applications
         # link: github.com/sproogen
