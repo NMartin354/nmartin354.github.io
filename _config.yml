@@ -202,6 +202,21 @@ content:
           # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Redesigned and merged 2 SQL databases to allow editing of the primary key using a complex Transact SQL script
+      - layout: top-middle
+        title: Drives training
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: #>
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Wrote a training powerpoint on Powerflex DC, Powerflex 755, and Powerflex 525 drives. Providing a solid understanding to onsite maintenance staff and new embry staff on the fundamentals of the drives, how to operate their HIM's and common troubleshooting parameters.
 
 
   - title: Personal Projects
