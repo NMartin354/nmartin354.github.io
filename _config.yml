@@ -68,11 +68,13 @@ content:
         quote: >
           Responsibility is what you make of it
         description: | # this will include new lines to allow paragraphs
-            Originally contracted for a 6-month migration project, directed a team to complete the scope in just 3 months. Subsequently retained to help lead the factory’s international relocation based on technical knowledge gained while learning the site's systems.            - Leveraged deep system expertise gained during initial site upgrades to secure a leadership role in the construction and commissioning of a new production facility.
+            Originally contracted for a 6-month migration project, directed a team to complete the scope in just 3 months. Subsequently retained to help lead the factory’s international relocation based on technical knowledge gained while learning the site's systems.            
+            - Leveraged deep system expertise gained during initial site upgrades to secure a leadership role in the commissioning of a new production facility.
             - Assisted in orchestrating the technical decommissioning and relocation of a full-scale production facility, managing a multidisciplinary team of 15-20 personnel.
             - Standardized field labeling and wire-pulling procedures to ensure 100% accuracy for future re-integration at an international destination.
-            - Serving as the primary technical trainer for a new crew, providing hands-on instruction on electrical best practices, safety guidelines, and industrial standards.
+            - Serving as the primary technical trainer for contracted help, providing hands-on instruction on electrical best practices, safety guidelines, and industrial standards.
             - Engineered an Intellectual Property (IP) protection strategy by encrypting PLC source code for the new facility.
+            - Led a team to migrate and back up 100+ control systems to Asset Centre, completing a 6-month scope in 3 months.
             - Spearheaded the virtualization of 50+ physical HMI stations into a centralized server environment, reducing hardware footprint and simplifying international deployment.
       - layout: left
         title: |
